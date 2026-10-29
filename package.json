@@ -1,0 +1,11 @@
+{
+    "name": "dsn2",
+    "version": "18.8.2",
+    "description": "dsn2",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=16"
+    }
+}

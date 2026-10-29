@@ -1,0 +1,8 @@
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Notice:  Undefined variable: filename in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 52
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 93
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 94
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 95
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  curl_getinfo(): supplied resource is not a valid cURL handle resource in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 96
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 97
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Notice:  Undefined variable: fp in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 98
+[30-Jul-2025 17:13:42 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /www/wwwroot/gs.dsngroup.co.id/automate/clean_log_courier/clean_dev.php on line 98

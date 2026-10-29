@@ -1,0 +1,126 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "Append new data to JSON.",
+    "data": [
+        {
+            "no_dokumen": "006\/2021\/DSN",
+            "tanggal_terima": null,
+            "no_awb": "awb dummy",
+            "status_sap": 0,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "018\/2021\/DSN",
+            "tanggal_terima": "2023-07-08 11:28:00",
+            "no_awb": "3541219990005",
+            "status_sap": 2,
+            "id_user": 9
+        },
+        {
+            "no_dokumen": "017\/2021\/DSN",
+            "tanggal_terima": "2023-07-13 16:39:00",
+            "no_awb": "3541220050002",
+            "status_sap": 2,
+            "id_user": 1
+        },
+        {
+            "no_dokumen": "2\/20-JAN-22",
+            "tanggal_terima": "2023-07-13 09:40:59",
+            "no_awb": "600004479770",
+            "status_sap": 2,
+            "id_user": 9
+        },
+        {
+            "no_dokumen": "013\/2021\/DSN",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 2,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "012\/2021\/DSN",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 2,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "016\/2021\/DSN",
+            "tanggal_terima": "2023-07-13 16:39:00",
+            "no_awb": "3541220050002",
+            "status_sap": 2,
+            "id_user": 1
+        },
+        {
+            "no_dokumen": "310000001",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000002",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000003",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000004",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000005",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000006",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000007",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000008",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000009",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        },
+        {
+            "no_dokumen": "310000010",
+            "tanggal_terima": null,
+            "no_awb": null,
+            "status_sap": 1,
+            "id_user": 0
+        }
+    ]
+}
